@@ -88,11 +88,17 @@ Raw data set	Tidy data set
 subject	subject
 label	label
 tBodyAcc-mean()-X	tBodyAccMeanX
+
 tBodyAcc-mean()-Y	tBodyAccMeanY
+
 tBodyAcc-mean()-Z	tBodyAccMeanZ
+
 tBodyAcc-std()-X	tBodyAccStdX
+
 tBodyAcc-std()-Y	tBodyAccStdY
+
 tBodyAcc-std()-Z	tBodyAccStdZ
+
 tGravityAcc-mean()-X	tGravityAccMeanX
 tGravityAcc-mean()-Y	tGravityAccMeanY
 tGravityAcc-mean()-Z	tGravityAccMeanZ
